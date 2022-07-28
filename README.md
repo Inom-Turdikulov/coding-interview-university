@@ -224,7 +224,7 @@ Preferably the language would be the same, so that you only need to be proficien
 
 When I did the study plan, I used 2 languages for most of it: C and Python
 
-* C: Very low level. Allows you to deal with pointers and memory allocation/deallocation, so you feel the data structures
+* [ ] C: Very low level. Allows you to deal with pointers and memory allocation/deallocation, so you feel the data structures
     and algorithms in your bones. In higher level languages like Python or Java, these are hidden from you. In day to day work, that's terrific,
     but when you're learning how these low-level data structures are built, it's great to feel close to the metal.
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
@@ -233,7 +233,9 @@ When I did the study plan, I used 2 languages for most of it: C and Python
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work.
         - You don't need to go super deep in the book (or even finish it). Just get to where you're comfortable reading and writing in C.
         - [Answers to questions in the book](https://github.com/lekkas/c-algorithms)
-* Python: Modern and very expressive, I learned it because it's just super useful and also allows me to write less code in an interview.
+* [ ] Python: Modern and very expressive, I learned it because it's just super useful and also allows me to write less code in an interview.
+    - [ ] PythonTutorial
+    - [ ] HyperSkill
 
 This is my preference. You do what you like, of course.
 
